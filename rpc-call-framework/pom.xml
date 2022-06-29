@@ -21,7 +21,7 @@
         <netty.version>4.0.24.Final</netty.version>
         <objenesis.version>2.1</objenesis.version>
         <protostuff.version>1.0.8</protostuff.version>
-        <zookeeper.version>3.4.5</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <collections4.version>4.0</collections4.version>
         <cglib.version>3.1</cglib.version>
    </properties>
